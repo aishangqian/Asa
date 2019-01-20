@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="首页" />
+
+    <item
+        android:id="@+id/type"
+        android:title="分类" />
+
+    <item
+        android:id="@+id/findme"
+        android:title="觅Me" />
+
+    <item
+        android:id="@+id/scart"
+        android:title="购物车"/>
+
+    <item
+        android:id="@+id/my"
+        android:title="我的"/>
+
+</menu>
